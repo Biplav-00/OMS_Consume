@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOGYKFasxQYNjsFi5h3lhfHEB0IZ03tpNHZ+5JxSI7AcFk0Yu7j48nm1Luz3I+pk/+S/azicY+OWsj3BQdMrtg==",
+  "success": true,
+  "projectFilePath": "F:\\asp dot net\\ConsumeOMS\\ConsumeOMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Animesh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
